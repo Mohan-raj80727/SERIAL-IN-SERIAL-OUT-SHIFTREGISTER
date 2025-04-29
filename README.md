@@ -56,7 +56,7 @@ endmodule
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 */
 
-**RTL LOGIC FOR SISO Shift Register**
+### RTL LOGIC FOR SISO Shift Register
 ![image](https://github.com/user-attachments/assets/6281a38d-8f58-436c-9806-4162dcb81bb9)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
